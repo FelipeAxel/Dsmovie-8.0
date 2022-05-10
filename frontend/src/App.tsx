@@ -1,9 +1,9 @@
+import Navbar from "./components/Navbar";
+
+
 function App() {
   return (
-    <h1>
-      Dsmovie
-      Pagina principal
-    </h1>
+    <Navbar />
   );
 }
 
